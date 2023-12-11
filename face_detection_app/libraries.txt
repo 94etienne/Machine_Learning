@@ -1,0 +1,25 @@
+Dependencies
+................
+pip install cmake
+pip install dlib
+pip install face-recognition
+pip install cvzone (INSTALL OPENCV AND NUMPY, YOU CAN SKIP IT AND INSTALL THEM SEPARATELY)
+pip install opencv-python==4.5.4.60  (Failed)
+
+
+
+https://github.com/ageitgey/face_recognition/tree/master (GitHub)
+
+https://youtu.be/iBomaK2ARyI?si=Ba4WtflsXSz7hFOm (YOUTUBE)
+
+Structure of files
+
+1. Main
+2. EncoGenerator
+3. AddDataToDatabase
+4. We have Used firebase Database (Realtime as db and Storage to Store images) (19etienne@gmail.com account to firebase)
+5. increase number of images in Images folder for more antendess and updated AddDataToDatabase to add more student
+6. You can add student and their photo using web/
+
+
+Thanks
